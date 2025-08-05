@@ -49,7 +49,7 @@
  <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=dhrubo-10&show_icons=true&theme=radical&hide_border=true" alt="Dhrubo's GitHub Stats"/>
   <br> -->
-  <img src="https://streak-stats.demolab.com?user=dhrubo-10&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhrubo-10&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p> 
 
 <h3 align="center">Currently working on</h3>
