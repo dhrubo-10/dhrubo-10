@@ -12,10 +12,6 @@
   📫 Reach me at: <a href="mailto:sdhrubo770@gmail.com"><strong>sdhrubo770@gmail.com</strong></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhrubo-10&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
 
 <p align="center">
   💻 <strong>AI/ML, Ethical Hacking, Django, C & Python</strong><br>
