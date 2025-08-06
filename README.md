@@ -17,7 +17,6 @@
   💻 <strong>AI/ML, Ethical Hacking, Django, C & Python</strong><br>
   ⚙️ <strong>Linux customization, CLI tools, and system optimization</strong><br>
   🌐 <strong>Web development with a backend focus</strong><br>
-  🧠 <strong>Exploring the boundaries of technology with limited resources</strong>
 </p>
 
 <h3 align="center">Tech Stack</h3>
@@ -34,6 +33,21 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <!-- CSS Frameworks -->
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white"/>
+  <!-- Animations & More -->
+  <img src="https://img.shields.io/badge/Framer_Motion-EF008F?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Animate.css-FF6F61?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=I+%F0%9F%92%8D+modern+web+styling!;From+utility-first+to+classic+frameworks;CSS+is+my+playground!"/>
 </p>
 
 <div align="center">
