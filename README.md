@@ -49,6 +49,14 @@
   </a>
 
 </div> -->
+<div align="center">
+
+<!-- GitHub Stats Card -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhrubo-10&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</a>
+
+</div>
 
 <h3 align="center">Currently working on</h3>
 
