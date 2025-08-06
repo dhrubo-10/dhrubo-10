@@ -41,14 +41,14 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubo-10&layout=compact&langs_count=8&hide_progress=false&theme=tokyonight&v=2)
 
 </div>
-<div align="center">
+<!-- <div align="center">
 
 <!-- GitHub Streak Widget -->
-  <a href="https://git.io/streak-stats">
+<!--  <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=dhrubo-10&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </a>
 
-</div>
+</div> -->
 
 <h3 align="center">Currently working on</h3>
 
