@@ -46,7 +46,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubo-10&layout=compact&langs_count=8&hide_progress=false&theme=tokyonight&v=2)
 
 </div>
-<<div align="center">
+<div align="center">
 
 <GitHub Streak Widget
 <a href="https://git.io/streak-stats">
