@@ -12,11 +12,10 @@
   📫 Reach me at: <a href="mailto:sdhrubo770@gmail.com"><strong>sdhrubo770@gmail.com</strong></a>
 </p>
 
-
 <p align="center">
   💻 <strong>AI/ML, Ethical Hacking, Django, C & Python</strong><br>
   ⚙️ <strong>Linux customization, CLI tools, and system optimization</strong><br>
-  🌐 <strong>Web development with a backend focus</strong><br>
+  🌐 <strong>Web development with a backend focus</strong>
 </p>
 
 <h3 align="center">Tech Stack</h3>
@@ -43,15 +42,16 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubo-10&layout=compact&langs_count=8&hide_progress=false&theme=tokyonight&v=2)
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubo-10&layout=compact&langs_count=8&hide_progress=false&theme=tokyonight&v=2" alt="Top Languages" />
 
 </div>
 <div align="center">
 
-<GitHub Streak Widget
+<!-- GitHub Streak Widget -->
 <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=dhrubo-10&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </a>
+</a>
 
 </div>
 <div align="center">
