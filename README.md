@@ -43,7 +43,7 @@
 <div align="center">
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubo-10&layout=compact&langs_count=8&hide_progress=false&theme=tokyonight&v=2" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubo-10&layout=compact&langs_count=8&hide_progress=false&theme=tokyonight&v=3" alt="Top Languages" />
 
 </div>
 <div align="center">
