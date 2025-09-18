@@ -48,16 +48,12 @@
 </div>
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhrubo-10&theme=dark&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true&count_private=true)
-<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhrubo-10&theme=dark&hide_border=false&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9)
-<br/>
 
 </div>
 <div align="center">
 
 <!-- GitHub Stats Card -->
-<!-- ![Dhrubo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhrubo-10&show_icons=true&theme=tokyonight&hide_border=true) -->
+ ![Dhrubo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhrubo-10&show_icons=true&theme=tokyonight&hide_border=true) 
 
 
 </div>
