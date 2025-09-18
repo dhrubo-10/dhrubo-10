@@ -48,12 +48,10 @@
 </div>
 <div align="center">
 
-<!-- GitHub Streak Widget 
-<a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=dhrubo-10&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</a>
+![](https://github-readme-stats.vercel.app/api?username=dhrubo-10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dhrubo-10&theme=dark&hide_border=false)<br/>
 
-</div> -->
+</div>
 <div align="center">
 
 <!-- GitHub Stats Card -->
