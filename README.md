@@ -47,7 +47,7 @@
 
 </div>
 <div align="center">
-
+![Dhrubo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhrubo-10&show_icons=true&locale=en&theme=monokai&rank_icon=percentile)
 
 </div>
 <div align="center">
