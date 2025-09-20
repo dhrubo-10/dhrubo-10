@@ -47,7 +47,9 @@
 
 </div>
 <div align="center">
-![Dhrubo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhrubo-10&show_icons=true&locale=en&theme=monokai&rank_icon=percentile)
+<a href="https://github.com/dhrubo-10?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhrubo-10&show_icons=true&locale=en&theme=tokyonight&rank_icon=percentile&hide_border=true" alt="Dhrubo's GitHub Stats" />
+</a>
 
 </div>
 <div align="center">
