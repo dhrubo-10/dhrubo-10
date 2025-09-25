@@ -20,9 +20,12 @@
 
 ---
 
- This is where I keep my notes, practice code, and personal projects.  
+<p align="center">
+  This is where I keep my notes, practice code, and personal projects.  
  Currently working on kernel project and  learning AI/ML, cybersecurity, and web dev.  
  Enthusiastic about open-source, low-level C, and building smart systems.
+</p>
+ 
 
 <h3 align="center">Tech Stack</h3>
 
@@ -66,11 +69,5 @@
 
 </div>
 
-<h3 align="center">Currently working on</h3>
 
-<p align="center">
-  🔧 Advanced C Programming<br>
-  🤖 Machine Learning & AI Systems<br>
-  🌍 Full Stack Application Architectures<br>
-  🧩 Low-Level Operating System Development
-</p>
+
