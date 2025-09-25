@@ -13,10 +13,16 @@
 </p>
 
 <p align="center">
-  💻 <strong>AI/ML, Ethical Hacking, Django, C & Python</strong><br>
-  ⚙️ <strong>Linux customization, CLI tools, and system optimization</strong><br>
-  🌐 <strong>Web development with a backend focus</strong>
+  💻 AI/ML · Ethical Hacking · Django · C & Python <br>
+  ⚙️ Linux · CLI · System Optimization <br>
+  🌐 Backend Web Dev
 </p>
+
+---
+
+ This is where I keep my notes, practice code, and personal projects.  
+ Currently working on kernel project and  learning AI/ML, cybersecurity, and web dev.  
+ Enthusiastic about open-source, low-level C, and building smart systems.
 
 <h3 align="center">Tech Stack</h3>
 
