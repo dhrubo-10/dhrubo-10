@@ -56,9 +56,10 @@
 
 </div>
 <div align="center">
+
 ![Dhrubo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhrubo-10&show_icons=true&theme=tokyonight&count_private=true)
 
-</a>
+</div>
 
 </div>
 <div align="center">
