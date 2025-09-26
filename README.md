@@ -52,7 +52,7 @@
 <div align="center">
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubo-10&layout=compact&langs_count=8&hide_progress=false&theme=tokyonight&v=3" alt="Top Languages" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubo-10&layout=compact&langs_count=8&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <div align="center">
