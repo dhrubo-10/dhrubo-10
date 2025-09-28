@@ -52,12 +52,13 @@
 <div align="center">
 
 <!-- Top Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubo-10&layout=compact&langs_count=8&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubo-10&layout=compact&langs_count=8&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubo-10&layout=compact&theme=radical&count_private=true&border_radius=10&hide=html,css&langs_count=8&card_width=420)))
 
 </div>
 <div align="center">
 
-![Dhrubo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhrubo-10&show_icons=true&theme=tokyonight&count_private=true)
+![Dhrubo's GitHub stats]([https://github-readme-stats.vercel.app/api?username=dhrubo-10&show_icons=true&theme=tokyonight&count_private=true](https://github-readme-stats.vercel.app/api?username=dhrubo-10&show_icons=true&count_private=true&include_all_commits=true&theme=radical&border_radius=10&card_width=400))
+[![GitHub Streak](https://streak-stats.demolab.com?user=dhrubo-10&theme=radical&date_format=j%20M%5B%20Y%5D&border_radius=10)]
 
 </div>
 
