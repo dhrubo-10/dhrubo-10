@@ -56,7 +56,7 @@
 </div>
 <div align="center">
 
-![Dhrubo's GitHub Stats](https://it-stats-six.vercel.app/api?username=dhrubo-10&show_icons=true&count_private=true&include_all_commits=true&theme=radical&border_radius=10&card_width=400)
+![Dhrubo's GitHub Stats](https://git-stats-six.vercel.app/api?username=dhrubo-10&show_icons=true&count_private=true&include_all_commits=true&theme=radical&border_radius=10&card_width=400)
 </div>
 
 <div align="center">
