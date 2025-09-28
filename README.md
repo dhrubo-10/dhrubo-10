@@ -59,8 +59,9 @@
 ![Dhrubo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhrubo-10&show_icons=true&count_private=true&include_all_commits=true&theme=radical&border_radius=10&card_width=400)
 </div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dhrubo-10&theme=radical&date_format=j%20M%5B%20Y%5D&border_radius=10)]
-
+<div align="center">
+![GitHub Streak](https://streak-stats.demolab.com?user=dhrubo-10&theme=radical&date_format=j%20M%5B%20Y%5D&border_radius=10)
+</div>
 
 
 <div align="center">
