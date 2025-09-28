@@ -60,7 +60,7 @@
 </div>
 
 <div align="center">
-![GitHub Streak](https://streak-stats.demolab.com?user=dhrubo-10&theme=radical&date_format=j%20M%5B%20Y%5D&border_radius=10)
+  <img src="https://streak-stats.demolab.com?user=dhrubo-10&theme=radical&date_format=j%20M%5B%20Y%5D&border_radius=10" alt="GitHub Streak" />
 </div>
 
 
