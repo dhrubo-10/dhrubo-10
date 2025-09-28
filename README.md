@@ -52,7 +52,7 @@
 <div align="center">
 
 <!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubo-10&layout=compact&theme=radical&count_private=true&border_radius=10&hide=html,css&langs_count=8&card_width=420)
+![Top Langs](https://git-stats-six.vercel.app/api/top-langs/?username=dhrubo-10&layout=compact&theme=monokai&count_private=true&border_radius=10&hide=html,css&langs_count=8&card_width=350)
 </div>
 <div align="center">
 
