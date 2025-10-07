@@ -12,17 +12,11 @@
   📫 Reach me at: <a href="mailto:sdhrubo770@gmail.com"><strong>sdhrubo770@gmail.com</strong></a>
 </p>
 
-<p align="center">
-  💻 AI/ML · Ethical Hacking · Django · C & Python <br>
-  ⚙️ Linux · CLI · System Optimization <br>
-  🌐 Backend Web Dev
-</p>
-
 ---
 
 <p align="center">
   This is where I keep my notes, practice code, and personal projects.  
- Currently working on kernel project and  learning AI/ML, cybersecurity, and web dev.  
+ Currently working on custom linux kernel and my custom OS built from scratch, besides learning AI/ML, cybersecurity, and full stack web dev.  
  Enthusiastic about open-source, low-level C, and building smart systems.
 </p>
  
