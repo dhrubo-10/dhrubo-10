@@ -23,7 +23,7 @@
 
 <h3 align="center">Tech Stack</h3>
 
-<!-- <p align="center"> 
+ <p align="center"> 
 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -60,13 +60,13 @@
   <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/>
   <img src="https://img.shields.io/badge/Animate.css-FF6F61?style=for-the-badge"/>
 </p>
--->
 
 
 
+<!--
 <div align="center">
 
-<!-- Top Languages -->
+
 ![Top Langs](https://git-stats-six.vercel.app/api/top-langs/?username=dhrubo-10&layout=compact&theme=radical&count_private=true&border_radius=10&langs_count=8&card_width=370)
 </div>
 <div align="center">
@@ -77,6 +77,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dhrubo-10&theme=radical&date_format=j%20M%5B%20Y%5D&border_radius=10" alt="GitHub Streak" />
 </div>
+-->
 
 
 <div align="center">
