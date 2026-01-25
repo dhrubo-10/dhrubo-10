@@ -69,24 +69,7 @@
 
 ![Top Langs](https://git-stats-six.vercel.app/api/top-langs/?username=dhrubo-10&layout=compact&theme=radical&count_private=true&border_radius=10&langs_count=8&card_width=370)
 </div>
-<div align="center">
-<!--
-![Dhrubo's GitHub Stats](https://git-stats-six.vercel.app/api?username=dhrubo-10&show_icons=true&count_private=true&include_all_commits=true&theme=radical&border_radius=10&card_width=400)
-</div>
 
-<!-- <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dhrubo-10&theme=radical&date_format=j%20M%5B%20Y%5D&border_radius=10" alt="GitHub Streak" />
-</div> -->
-
-
-
-<div align="center">
-
-<!-- GitHub Stats Card -->
-  ![Dhrubo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhrubo-10&show_icons=true&theme=tokyonight&hide_border=true) 
-
-
-</div>
 
 
 
