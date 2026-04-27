@@ -15,9 +15,8 @@
 ---
 
 <p align="center">
-  This is where I keep my notes, practice code, and personal projects.  
- Currently working on custom linux kernel and my custom OS built from scratch, besides learning AI/ML, cybersecurity, and full stack web dev.  
- Enthusiastic about open-source, low-level C, and building smart systems.
+ This is where I keep my notes, practice code, and personal projects.
+Building baSic_ kernel. Into low-level C, open-source, and systems programming. Also on a bit of AI/ML and full-stack.
 </p>
  
 
